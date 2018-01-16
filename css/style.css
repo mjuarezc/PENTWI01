@@ -1,0 +1,4 @@
+#currency-table table, #currency-table th,#currency-table td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
